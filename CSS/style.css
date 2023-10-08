@@ -112,10 +112,10 @@ h1 {
     font-weight: 300;
 }
 
-#about {
-    border-radius: 3%;
+#introimg {
     height: auto;
-    max-width: 35% !important;
+    max-width: 60% !important;
+    padding-bottom: 20px;
 }
 
 #marra1img, #marra2img {
