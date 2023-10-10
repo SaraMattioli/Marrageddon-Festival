@@ -407,3 +407,9 @@ h5 {
     padding-top: 30px;
     padding-bottom: 20px;
 }
+
+#visualimg {
+    height: auto;
+    max-width: 50% !important;
+    padding-bottom: 2em;
+}
